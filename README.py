@@ -1,2 +1,2 @@
-# simple_py
-my first py
+print("hello Arshad V1")
+
